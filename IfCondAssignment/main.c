@@ -27,7 +27,7 @@ int main()
         printf("Blue\n");
     }
 
-    if (x >= 20 || x <= 200){
+    if (x <= 20 || x >= 200){
         printf("Orange\n");
     }
 
